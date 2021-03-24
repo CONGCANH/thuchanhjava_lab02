@@ -1,0 +1,2 @@
+Mã nhân viên: 123, họ tên nhân viên: asd, tuổi: 11, Sản phẩm: 10
+Mã nhân viên: 456, họ tên nhân viên: qwe, tuổi: 20, Sản phẩm: 10
